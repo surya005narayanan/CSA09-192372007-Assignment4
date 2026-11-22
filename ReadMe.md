@@ -3,9 +3,9 @@
 
 * **Course:** Programming in Java (CSA09)
 * **Course Outcome:** CO4 – Applets, Event Delegation Model, Listeners & Adapter Classes, Inner & Anonymous Classes, AWT & Swing Components, Layout Managers, Menus & Dialogs, and GUI–JDBC Integration
-* **Student Name:** `<Your Name>`
-* **Register Number:** `<Your Register Number>`
-* **GitHub Repository:** `https://github.com/<your-username>/CSA09-<RegisterNumber>-Assignment4`
+* **Student Name:** `M Surya Narayanan`
+* **Register Number:** `192372007`
+* **GitHub Repository:** `https://github.com/<your-username>/CSA09-192372007-Assignment4`
 * **Java Version:** JDK 17+[cite: 1]
 
 ---
